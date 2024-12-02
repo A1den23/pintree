@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1729911939340,
+    "addDate": 1722610644790,
     "title": "书签栏",
     "children": [
       {
@@ -262,6 +262,13 @@
         "title": "比特币囤币指标ahr999",
         "icon": "https://logo.clearbit.com/coinank.com",
         "url": "https://coinank.com/zh/indexdata/ahrIndex"
+      },
+      {
+        "type": "link",
+        "addDate": 1733107829144,
+        "title": "Moodist: Ambient Sounds for Focus and Calm",
+        "icon": "https://logo.clearbit.com/moodist.mvze.net",
+        "url": "https://moodist.mvze.net/"
       },
       {
         "type": "link",
