@@ -1593,13 +1593,6 @@
           },
           {
             "type": "link",
-            "addDate": 1713765785294,
-            "title": "利特尔玛米 --- Littlemami",
-            "icon": "https://logo.clearbit.com/www.marsprotocol.org",
-            "url": "https://www.marsprotocol.org/"
-          },
-          {
-            "type": "link",
             "addDate": 1714119871443,
             "title": "Uniswap Interface",
             "icon": "https://logo.clearbit.com/app.uniswap.org",
@@ -1751,6 +1744,20 @@
             "title": "DarkHandBook - Blockchain dark forest selfguard handbook - Master these, master the security of your cryptocurrency.",
             "icon": "https://logo.clearbit.com/darkhandbook.io",
             "url": "https://darkhandbook.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714381706450,
+            "title": "DeBank",
+            "icon": "https://logo.clearbit.com/debank.com",
+            "url": "https://debank.com/profile/0x3559e7d4459025c0e57c162831b4602100434028"
+          },
+          {
+            "type": "link",
+            "addDate": 1734241157559,
+            "title": "Lending | Kamino Finance",
+            "icon": "https://logo.clearbit.com/app.kamino.finance",
+            "url": "https://app.kamino.finance/"
           }
         ]
       },
@@ -1821,13 +1828,6 @@
             "title": "Sepolia PoW Faucet",
             "icon": "https://logo.clearbit.com/sepolia-faucet.pk910.de",
             "url": "https://sepolia-faucet.pk910.de/"
-          },
-          {
-            "type": "link",
-            "addDate": 1714381706450,
-            "title": "DeBank",
-            "icon": "https://logo.clearbit.com/debank.com",
-            "url": "https://debank.com/profile/0x3559e7d4459025c0e57c162831b4602100434028"
           },
           {
             "type": "link",
