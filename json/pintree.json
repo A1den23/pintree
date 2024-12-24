@@ -1373,6 +1373,13 @@
             "title": "DrawLink - Transform URLs into Beautiful Visual Cards",
             "icon": "https://logo.clearbit.com/drawl.ink",
             "url": "https://drawl.ink/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734420185735,
+            "title": "OnlineCamScanner | 在线文档照片扫描仪，转换为pdf，编辑，旋转，翻转，裁剪，删除背景",
+            "icon": "https://logo.clearbit.com/onlinecamscanner.com",
+            "url": "https://onlinecamscanner.com/zh-Hans/"
           }
         ]
       },
@@ -1758,6 +1765,20 @@
             "title": "Lending | Kamino Finance",
             "icon": "https://logo.clearbit.com/app.kamino.finance",
             "url": "https://app.kamino.finance/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735004449099,
+            "title": "Pendle - Liberating Yield",
+            "icon": "https://logo.clearbit.com/www.pendle.finance",
+            "url": "https://www.pendle.finance/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735022939711,
+            "title": "Morpho | Open Infrastructure for Onchain Loans",
+            "icon": "https://logo.clearbit.com/morpho.org",
+            "url": "https://morpho.org/"
           }
         ]
       },
