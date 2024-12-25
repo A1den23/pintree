@@ -1779,6 +1779,13 @@
             "title": "Morpho | Open Infrastructure for Onchain Loans",
             "icon": "https://logo.clearbit.com/morpho.org",
             "url": "https://morpho.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735050624052,
+            "title": "Hyperliquid",
+            "icon": "https://logo.clearbit.com/app.hyperliquid.xyz",
+            "url": "https://app.hyperliquid.xyz/trade"
           }
         ]
       },
