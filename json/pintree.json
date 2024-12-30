@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1722610644790,
+    "addDate": 1729911939340,
     "title": "书签栏",
     "children": [
       {
@@ -1740,6 +1740,13 @@
           },
           {
             "type": "link",
+            "addDate": 1714023575509,
+            "title": "RootData — 探索可视化、结构化的加密项目数据库，提前发掘优质加密项目的信号",
+            "icon": "https://logo.clearbit.com/www.rootdata.com",
+            "url": "https://www.rootdata.com/zh"
+          },
+          {
+            "type": "link",
             "addDate": 1733729886810,
             "title": "Trending | Content",
             "icon": "https://logo.clearbit.com/dune.com",
@@ -1786,6 +1793,41 @@
             "title": "Hyperliquid",
             "icon": "https://logo.clearbit.com/app.hyperliquid.xyz",
             "url": "https://app.hyperliquid.xyz/trade"
+          },
+          {
+            "type": "link",
+            "addDate": 1735391221884,
+            "title": "Spectra - Open Interest Rate Derivatives Protocol",
+            "icon": "https://logo.clearbit.com/www.spectra.finance",
+            "url": "https://www.spectra.finance/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735455551388,
+            "title": "无常损失计算器 - MCT 链上工具",
+            "icon": "https://logo.clearbit.com/mct.xyz",
+            "url": "https://mct.xyz/ImpermanentLoss"
+          },
+          {
+            "type": "link",
+            "addDate": 1735545448846,
+            "title": "Coinsider",
+            "icon": "https://logo.clearbit.com/coinsider.app",
+            "url": "https://coinsider.app/funding"
+          },
+          {
+            "type": "link",
+            "addDate": 1735545455513,
+            "title": "Lulo",
+            "icon": "https://logo.clearbit.com/lulo.fi",
+            "url": "https://lulo.fi/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735548007198,
+            "title": "Resolv USR",
+            "icon": "https://logo.clearbit.com/resolv.xyz",
+            "url": "https://resolv.xyz/"
           }
         ]
       },
@@ -1863,13 +1905,6 @@
             "title": "龙珠社区 - Google 表格",
             "icon": "https://logo.clearbit.com/docs.google.com",
             "url": "https://docs.google.com/spreadsheets/d/1XCDfiUB-j5_itt5prXaZ6tOEaB_tWQIdg5ZCJAsnjio/edit?hl=zh-cn#gid=719543816"
-          },
-          {
-            "type": "link",
-            "addDate": 1714023575509,
-            "title": "RootData — 探索可视化、结构化的加密项目数据库，提前发掘优质加密项目的信号",
-            "icon": "https://logo.clearbit.com/www.rootdata.com",
-            "url": "https://www.rootdata.com/zh"
           },
           {
             "type": "link",
@@ -2080,6 +2115,13 @@
             "title": "ref空投列表7.18日更新 .xlsx - Google 表格",
             "icon": "https://logo.clearbit.com/docs.google.com",
             "url": "https://docs.google.com/spreadsheets/d/1fnD8NoevaBv94-XFlCWa6dOvvZRoTySF/edit?gid=334579482#gid=334579482"
+          },
+          {
+            "type": "link",
+            "addDate": 1735543851222,
+            "title": "Resolv Leaderboard - Google 表格",
+            "icon": "https://logo.clearbit.com/docs.google.com",
+            "url": "https://docs.google.com/spreadsheets/d/1PHQuOZc3WDdt1BqSL9HS_S2j5EXhwWL68F-bDQTGWdc/edit?gid=0#gid=0"
           }
         ]
       },
