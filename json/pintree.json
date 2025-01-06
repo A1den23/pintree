@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1729911939340,
+    "addDate": 1722610644790,
     "title": "书签栏",
     "children": [
       {
@@ -1828,6 +1828,48 @@
             "title": "Resolv USR",
             "icon": "https://logo.clearbit.com/resolv.xyz",
             "url": "https://resolv.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735632560701,
+            "title": "Step",
+            "icon": "https://logo.clearbit.com/app.step.finance",
+            "url": "https://app.step.finance/en/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1735868363802,
+            "title": "Drift | Trade Perpetual Futures",
+            "icon": "https://logo.clearbit.com/www.drift.trade",
+            "url": "https://www.drift.trade/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735964289714,
+            "title": "DEX Aggregator | Cross Chain Swap | Atomic Swap | OKX",
+            "icon": "https://logo.clearbit.com/www.okx.com",
+            "url": "https://www.okx.com/en-sg/web3/dex-swap"
+          },
+          {
+            "type": "link",
+            "addDate": 1736092240057,
+            "title": "Crypto Trading Data Aggregator Tool for Traders | Birdeye",
+            "icon": "https://logo.clearbit.com/www.birdeye.so",
+            "url": "https://www.birdeye.so/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736092379110,
+            "title": "Arkham",
+            "icon": "https://logo.clearbit.com/intel.arkm.com",
+            "url": "https://intel.arkm.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736092479824,
+            "title": "MetaSleuth | Crypto Tracking and Investigation Platform",
+            "icon": "https://logo.clearbit.com/metasleuth.io",
+            "url": "https://metasleuth.io/"
           }
         ]
       },
