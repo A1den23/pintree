@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1722610644790,
+    "addDate": 1729911939340,
     "title": "书签栏",
     "children": [
       {
@@ -1870,6 +1870,20 @@
             "title": "MetaSleuth | Crypto Tracking and Investigation Platform",
             "icon": "https://logo.clearbit.com/metasleuth.io",
             "url": "https://metasleuth.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736219087183,
+            "title": "Home - Euler Finance",
+            "icon": "https://logo.clearbit.com/euler.finance",
+            "url": "https://euler.finance/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736310001931,
+            "title": "Safe",
+            "icon": "https://logo.clearbit.com/app.safe.global",
+            "url": "https://app.safe.global/welcome/accounts"
           }
         ]
       },
