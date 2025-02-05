@@ -967,6 +967,20 @@
             "title": "减半倒计时",
             "icon": "https://logo.clearbit.com/explorer.viawallet.com",
             "url": "https://explorer.viawallet.com/halving?lang=zh_Hans_CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1737627683794,
+            "title": "收听链上广播 | Chain.fm",
+            "icon": "https://logo.clearbit.com/chain.fm",
+            "url": "https://chain.fm/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738670112067,
+            "title": "SoSoValue: Advanced AI-Powered Crypto Investment Research Platform",
+            "icon": "https://logo.clearbit.com/sosovalue.com",
+            "url": "https://sosovalue.com/zh"
           }
         ]
       },
@@ -1205,6 +1219,34 @@
             "title": "跨链聚合器 | 跨链交换 | 聚合交易 | 欧易",
             "icon": "https://logo.clearbit.com/www.okx.com",
             "url": "https://www.okx.com/zh-hans-sg/web3/dex-swap"
+          },
+          {
+            "type": "link",
+            "addDate": 1737598042409,
+            "title": "DefiLab: Essential Tools for the DeFi Community - Uniswap V3 Simulator and Backtest",
+            "icon": "https://logo.clearbit.com/defi-lab.xyz",
+            "url": "https://defi-lab.xyz/uniswapv3simulator"
+          },
+          {
+            "type": "link",
+            "addDate": 1737641542821,
+            "title": "f(x) Protocol",
+            "icon": "https://logo.clearbit.com/fx.aladdin.club",
+            "url": "https://fx.aladdin.club/v2/trade/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737688352453,
+            "title": "Aerodrome Finance",
+            "icon": "https://logo.clearbit.com/aerodrome.finance",
+            "url": "https://aerodrome.finance/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737692295182,
+            "title": "marginfi",
+            "icon": "https://logo.clearbit.com/www.marginfi.com",
+            "url": "https://www.marginfi.com/"
           }
         ]
       },
@@ -2236,6 +2278,20 @@
             "url": "https://learn.microsoft.com/zh-cn/visualstudio/ide/not-in-toc/welcome-to-visual-studio-docs?f1url=%3FappId%3DDev16IDEF1%26l%3DZH-CN%26k%3Dk(vs.ViewHelp)%26rd%3Dtrue&view=vs-2022"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1737791155589,
+        "title": "felo.ai",
+        "icon": "https://logo.clearbit.com/felo.ai",
+        "url": "https://felo.ai/search"
+      },
+      {
+        "type": "link",
+        "addDate": 1738503737077,
+        "title": "DeepSeek",
+        "icon": "https://logo.clearbit.com/chat.deepseek.com",
+        "url": "https://chat.deepseek.com/"
       }
     ]
   }
